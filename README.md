@@ -13,17 +13,6 @@ You're in the right place! 🛠️
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@tshenolo?sub_confirmation=1)
 
----
-
-## 📁 Structure
-
-- `videos/` – Each folder corresponds to a video, with:
-  - `README.md` – Summary + links
-  - `commands.sh` or `commands.md` – The actual terminal commands used
-  - `assets/` – Images, PDFs, scripts, and other downloadables
-- `downloadables/` – Shared resources across videos (e.g. cheat sheets)
-- `.github/workflows/` – GitHub Actions to update README with YouTube cards
-- `scripts/` – Automation tools for indexing and syncing content
 
 ---
 
