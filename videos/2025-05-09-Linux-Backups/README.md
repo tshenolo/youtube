@@ -15,7 +15,7 @@ Step 1: Use rsync to back up important files.
 rsync -avz /var/www/ user@backupserver:/backups/www/
 ```
 
-Step 2: Dump your database and back it up
+Step 2: Dump your database and back it up   
 Save a copy of your database into a file.
 ```
 mysqldump -u root -p your_database > /tmp/db_backup.sql
