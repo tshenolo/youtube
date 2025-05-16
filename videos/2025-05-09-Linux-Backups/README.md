@@ -10,12 +10,12 @@
 - Automating it with a cron job
 
 ## 💻 Commands
-Step 1: Use rsync to back up important files.
+### Step 1: Use rsync to back up important files.
 ```
 rsync -avz /var/www/ user@backupserver:/backups/www/
 ```
 
-Step 2: Dump your database and back it up   
+### Step 2: Dump your database and back it up   
 Save a copy of your database into a file.
 ```
 mysqldump -u root -p your_database > /tmp/db_backup.sql
@@ -26,7 +26,7 @@ Back up that file to another server
 rsync -avz /tmp/db_backup.sql user@backupserver:/backups/db/
 ```
 
-Step 3: Automate your backups.
+### Step 3: Automate your backups.
 
 Create a bash script 
 ```
