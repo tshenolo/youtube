@@ -15,23 +15,29 @@
 
 ## 💻 Commands
 ### 1. System Load
+```
 uptime
-
+```
 ### 2. CPU and Memory  
+```
 top -n 1 | head -15
-
+```
 ### 3. Disk Space  
+```
 df -h
-
+```
 ### 4. Memory Snapshot 
+```
 free -m
-
+```
 ### 5. Open Ports
+```
 ss -tuln
-
+```
 ### 6. Log Snapshot 
+```
 tail -n 20 /var/log/syslog
-
+```
 ## 📁 Resources
 - [monitor.sh](monitor.sh) – Monitoring script
 
