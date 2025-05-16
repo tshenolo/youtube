@@ -1,6 +1,6 @@
 # 🗃️ Linux Backups with Rsync and Cron
 
-**Video**: [Struggling with Linux Backups? Try This EASY Automation!](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+**Video**: [Struggling with Linux Backups? Try This EASY Automation!](https://youtube.com/shorts/lu8uTL_-lW8)  
 **Blog**: [Backup Your Linux Server Fast](https://medium.com/@tshenolomos/backup-your-linux-server-fast-3684c2c70ed7)
 
 
