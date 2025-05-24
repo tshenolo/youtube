@@ -1,6 +1,6 @@
 # 🛡️ Secure Your Linux Server
 
-**Video**: [Stop Hackers Fast With This Easy Linux Firewall Trick](https://youtube.com/shorts/nraQmzeZh0w)
+**Video**: [Stop Hackers Fast With This Easy Linux Firewall Trick](https://youtube.com/shorts/nraQmzeZh0w)  
 **Blog**: [Secure Your Linux Server (No Experience Needed)](https://medium.com/@tshenolomos/secure-your-linux-server-no-experience-needed-491272d8efd8)
 
 ## 💡 What You’ll Learn
