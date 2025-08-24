@@ -1,7 +1,7 @@
 # ⏰ Real-Time Disk Space Alerts
 
-**Video**: [How to Monitor Disk Usage and Set Alerts](#)  
-**Blog**: [Set Up Real-Time Disk Space Alerts](#)
+**Video**: [How to Monitor Disk Usage and Set Alerts](https://youtube.com/shorts/OzWImZd8eyI)  
+**Blog**: [Set Up Real-Time Disk Space Alerts](https://medium.com/p/34ba9ba19813)
 
 ## 💡 What You’ll Learn
 
